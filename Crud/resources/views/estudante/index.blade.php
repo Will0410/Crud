@@ -8,7 +8,7 @@
                         <h2>students CRUD(Create, Read, Update e Delete)</h2>
                     </div>
                     <div class="card-body">
-                        <a href="{{ url('/estudantes/create') }}" class="btn btn-success btn-sm" title="Add New Student">
+                          <a href="{{ url('/estudantes/create') }}" class="btn btn-success btn-sm" title="Add New Student">
                             Inserir
                         </a>
                         <br/>
